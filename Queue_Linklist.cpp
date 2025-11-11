@@ -83,18 +83,3 @@ int main()
     x = q.peek();
     cout<<"\tFront element is"<<x <<endl;
 }
-
-/*PS C:\Users\Students\OneDrive\Omkar Gunjal> cd "c:\Users\Students\OneDrive\Omkar Gunjal\" ; if ($?) { g++ Queue_Linklist.cpp -o Queue_Linklist } ; if ($?) { .\Queue_Linklist }
-
-
-10
-20
-30
-40
-Removed10
-
-
-20
-30
-40
-Front element is20 */
