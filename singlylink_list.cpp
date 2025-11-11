@@ -82,7 +82,3 @@ int main()
     list.display();
     return(0);
 }
-
-/*PS C:\Users\Students\OneDrive\Omkar Gunjal> cd "c:\Users\Students\OneDrive\Omkar Gunjal\" ; if ($?) { g++ link_list.cpp -o link_list } ; if ($?) { .\link_list }
-10->20->30->40->
-PS C:\Users\Students\OneDrive\Omkar Gunjal>*/
