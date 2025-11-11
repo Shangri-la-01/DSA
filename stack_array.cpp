@@ -74,16 +74,3 @@ int main()
    cout << "TOP ELEMENT IS" << x ;
    return(0);   
 }
-   /*C:\Users\Students\OneDrive\Omkar Gunjal> cd "c:\Users\Students\OneDrive\Omkar Gunjal\" ; if ($?) { g++ stack.cpp -o stack } ; if ($?) { .\stack }
-stack full
-50
-40
-30
-20
-10REMOVED50
-
-40
-30
-20
-10TOP ELEMENT IS40
-PS C:\Users\Students\OneDrive\Omkar Gunjal>*/
