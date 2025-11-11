@@ -104,11 +104,3 @@ int main()
 
     return 0;
 }
-
-/*PS C:\Users\Students\OneDrive\Omkar Gunjal> cd "c:\Users\Students\OneDrive\Omkar Gunjal\" ; if ($?) { g++ Queue_array.cpp -o Queue_array } ; if ($?) { .\Queue_array }
-
-Queue elements:         10      20      30      40      50
-        Element Removed: 10
-
-Queue elements:         20      30      40      50
-        Front Element is = 20*/
